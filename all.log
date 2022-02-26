@@ -1,0 +1,8 @@
+2022-02-26 12:26:53.266 [main] INFO  DiceGame.Game - Start Game
+2022-02-26 12:26:56.516 [main] INFO  DiceGame.Game - Name One is GHs
+2022-02-26 12:26:57.766 [main] INFO  DiceGame.Game - Name Twi is SHF
+2022-02-26 12:26:59.453 [main] INFO  DiceGame.Game - Dice size is 34
+2022-02-26 12:26:59.469 [main] INFO  DiceGame.Game - GHs throw 9
+2022-02-26 12:26:59.469 [main] INFO  DiceGame.Game - SHF throw 12
+2022-02-26 12:26:59.469 [main] INFO  DiceGame.Game - The winner is GHs with 12 on dice
+2022-02-26 12:26:59.469 [main] INFO  DiceGame.Game - Finish Game
